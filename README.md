@@ -1,2 +1,2 @@
 # Iubiwa
-An OpenSource POS - A POS to rule them all 
+An OpenSource POS - A POS to rule them all

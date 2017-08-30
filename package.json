@@ -1,0 +1,22 @@
+{
+  "name": "iubiwa",
+  "version": "0.0.1",
+  "description": "A POS to rule them all",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron app/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drupalio/Iubiwa.git"
+  },
+  "keywords": [
+    "POS"
+  ],
+  "author": "Drupalio",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/drupalio/Iubiwa/issues"
+  },
+  "homepage": "https://github.com/drupalio/Iubiwa#readme"
+}
